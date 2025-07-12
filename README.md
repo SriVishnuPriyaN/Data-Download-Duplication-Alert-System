@@ -89,5 +89,3 @@ Cross-platform support
 
 Notification system integration
 
-👨‍💻 Author
-Developed by Vishnu Priya and Team – Student-led innovation project.
